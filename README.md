@@ -1,6 +1,3 @@
-<!--
-**anabalves/anabalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## Hey 👋
 
 Hi there, I'm **Ana Beatriz Barbosa Alves**, a **systems analysis and development student** and **software developer**.
