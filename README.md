@@ -58,12 +58,7 @@ public class anaBeatriz extends softwareDeveloper {
 ---
 
 ![Ana GitHub stats](https://github-readme-stats.vercel.app/api?username=anabalves&show_icons=true&theme=nightowl)
-
-![Ana GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=anabalves&repo=sistemas-operacionais-I-20211&theme=nightowl)
-
-![Ana GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=anabalves&repo=estruturas-de-dados-20211&theme=nightowl)
-
-![Ana GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anabalves&layout=compact&theme=nightowl)
+![Ana GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anabalves&langs_count=8&theme=nightowl)
 
 ---
 
