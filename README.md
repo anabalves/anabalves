@@ -32,8 +32,8 @@ public class anaBeatriz extends softwareDeveloper {
 ---
 
 ### Contact me:
-[![Spotify](https://img.shields.io/badge/-SPOTIFY-81b71?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/e4j5pniqyb9bnrz6p9auguevd?si=WDz1msevSo-8ctr3JsxrDA)
-[![Gmail](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ana.alves41@fatec.sp.gov.br)
+[![Spotify](https://img.shields.io/badge/-SPOTIFY-81b71?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/e4j5pniqyb9bnrz6p9auguevd?si=WDz1msevSo-8ctr3JsxrDA) 
+<a href = "mailto: ana.alves41@fatec.sp.gov.br"><img src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-beatriz-barbosa-alves-775138197/)
 [![Discord](https://img.shields.io/badge/-DISCORD-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/705530303615336520/)
 
