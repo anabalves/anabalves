@@ -56,6 +56,7 @@ public class anaBeatriz extends softwareDeveloper {
 ![Material](https://img.shields.io/badge/Material_Design-3d444f?style=flat-square&logo=Material-Design&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-8BC34A?style=flat-square&logo=Spring&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-80BD01?style=flat-square&logo=Node.js&logoColor=white)
+![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 
 ---
 
