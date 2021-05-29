@@ -77,4 +77,4 @@ public class anaBeatriz extends softwareDeveloper {
 
 ---
 
-![Snake animation]()
+![Snake animation](https://github.com/anabalves/anabalves/blob/output/github-contribution-grid-snake.svg)
