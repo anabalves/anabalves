@@ -2,10 +2,13 @@
 <div style="display: inline_block">
 <img align="left" alt="Hi-baby-yoda" src="https://media1.tenor.com/images/a53e378bb32fdbcabd28565ae799cfd5/tenor.gif" width="250" height="150">
 <p>Meu nome é Ana Beatriz, sou desenvolvedora Full Stack.<br>Amo aprender sobre tudo que envolva tecnologia e quero ser uma pessoa que faz a diferença no mundo através da programação!</p>
-<br>
 </div>
+ 
 
-<br>
+&nbsp;
+ 
+
+&nbsp;
 
 ## Languages & Tools:
 <div style="display: inline_block; margin: auto;">
