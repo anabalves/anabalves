@@ -30,8 +30,8 @@
 ## GitHub Stats
 <div>
   <a href="https://github.com/anabalves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anabalves&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabalves&layout=compact&langs_count=8&theme=nightowl"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anabalves&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400&theme=material-palenight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabalves&layout=compact&langs_count=7&cache_seconds=86400&theme=material-palenight"/>
 </div>
 
 ## Let's connect ?
