@@ -28,7 +28,7 @@
 </div>
   
 ## GitHub Stats
-<div>
+<div align="center">
   <a href="https://github.com/anabalves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anabalves&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400&theme=material-palenight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabalves&layout=compact&langs_count=7&cache_seconds=86400&theme=material-palenight"/>
@@ -36,9 +36,9 @@
 
 ## Let's connect ?
 <div> 
-<a href="https://www.linkedin.com/in/ana-beatriz-barbosa-alves-775138197/"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://discordapp.com/users/705530303615336520/"><img src="https://img.shields.io/badge/-DISCORD-7289da?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="mailto:ana.alves41@fatec.sp.gov.br"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ana-beatriz-barbosa-alves-775138197/" target="_new"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://discordapp.com/users/705530303615336520/" target="_new"><img src="https://img.shields.io/badge/-DISCORD-7289da?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="mailto:ana.alves41@fatec.sp.gov.br" target="_new"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 
