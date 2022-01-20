@@ -1,4 +1,3 @@
-# Hello World  👋 
 <div style="display: inline_block">
 <a href="https://github.com/anabalves">
 <img align="left" alt="Hi-baby-yoda" src="https://media1.tenor.com/images/a53e378bb32fdbcabd28565ae799cfd5/tenor.gif" width="250" height="150">
