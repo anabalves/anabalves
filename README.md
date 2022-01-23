@@ -17,12 +17,14 @@
 </p>
 
 <br>
-
-<p>Sou desenvolvedora Full Stack. Amo aprender sobre tudo que envolva tecnologia e quero ser uma pessoa que faz a diferença no mundo através da programação!</p>
-  
 <br>
 
-<p>
+<p align="left">Sou desenvolvedora Full Stack. Amo aprender sobre tudo que envolva tecnologia e quero ser uma pessoa que faz a diferença no mundo através da programação!</p>
+  
+<br>
+<br>
+
+<p align="left">
   <a href="https://github.com/anabalves">
     <img alt="Java" src="https://img.shields.io/badge/Java-A370F7?style=flat-square&logo=Java&logoColor=white">
   </a>
@@ -53,14 +55,17 @@
     <a href="https://github.com/anabalves">
     <img alt="Java" src="https://img.shields.io/badge/Eclipse-A370F7?style=flat-square&logo=Eclipse&logoColor=white">
   </a>
-</p>
+</>
 
 <br>
+<br>
 
-<center>
+<p align="left">
+  <a href="https://github.com/anabalves">
   <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabalves&layout=compact&cache_seconds=86400&title_color=A370F7&bg_color=ffffff00&text_color=A370F7&hide_border=true" />
   <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=anabalves&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400&title_color=A370F7&icon_color=6610F2&bg_color=ffffff00&text_color=A370F7&hide_border=true"/>
-</center>
+   </a>
+</p>
 
 <br>
 
