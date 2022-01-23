@@ -59,12 +59,14 @@
 
 <br>
 <br>
+<br>
+<br>
 
 <p align="center">
   <a href="https://github.com/anabalves">
-  <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabalves&layout=compact&cache_seconds=86400&title_color=A370F7&bg_color=ffffff00&text_color=A370F7&hide_border=true" />
-  <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=anabalves&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400&title_color=A370F7&icon_color=6610F2&bg_color=ffffff00&text_color=A370F7&hide_border=true"/>
-   </a>
+    <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabalves&layout=compact&cache_seconds=86400&title_color=A370F7&bg_color=ffffff00&text_color=A370F7&hide_border=true" />
+    <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=anabalves&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400&title_color=A370F7&icon_color=6610F2&bg_color=ffffff00&text_color=A370F7&hide_border=true"/>
+  </a>
 </p>
 
 <br>
