@@ -18,7 +18,7 @@
 
 <br>
 
-<p>Meu nome é Ana Beatriz Barbosa Alves, sou desenvolvedora Full Stack. Amo aprender sobre tudo que envolva tecnologia e quero ser uma pessoa que faz a diferença no mundo através da programação!</p>
+<p>Sou desenvolvedora Full Stack. Amo aprender sobre tudo que envolva tecnologia e quero ser uma pessoa que faz a diferença no mundo através da programação!</p>
 
 <br>
 
@@ -56,10 +56,10 @@
 </p>
 
 <br>
-
+<br>
 <br>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/anabalves">
   <img
   height="165"
@@ -67,7 +67,7 @@
   <img
   height="165"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabalves&layout=compact&langs_count=7&cache_seconds=86400&title_color=A370F7&bg_color=ffffff00&text_color=A370F7&hide_border=true"/>
-</div>
+</p>
 
 <br>
 
