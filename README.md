@@ -19,7 +19,7 @@
 <br>
 <br>
 
-<p align="left">Sou desenvolvedora Backend. Amo aprender sobre tudo que envolva tecnologia e quero ser uma pessoa que faz a diferença no mundo através da programação!</p>
+<p align="left"> Sou desenvolvedora Backend Java e estou buscando aumentar meus conhecimentos rumo ao Full Stack Spring e React. Amo aprender sobre tudo que envolva tecnologia e quero ser uma pessoa que faz a diferença no mundo através da programação!</p>
   
 <br>
 <br>
