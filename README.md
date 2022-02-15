@@ -19,7 +19,7 @@
 <br>
 <br>
 
-<p align="left">Sou desenvolvedora Full Stack. Amo aprender sobre tudo que envolva tecnologia e quero ser uma pessoa que faz a diferença no mundo através da programação!</p>
+<p align="left">Sou desenvolvedora Backend. Amo aprender sobre tudo que envolva tecnologia e quero ser uma pessoa que faz a diferença no mundo através da programação!</p>
   
 <br>
 <br>
