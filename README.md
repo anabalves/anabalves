@@ -17,12 +17,14 @@
 </p>
 
 <br>
-
-<p>Meu nome é Ana Beatriz Barbosa Alves, sou desenvolvedora Full Stack. Amo aprender sobre tudo que envolva tecnologia e quero ser uma pessoa que faz a diferença no mundo através da programação!</p>
-
 <br>
 
-<p style="display: inline_block;">
+<p align="left"> Sou desenvolvedora Backend Java e estou buscando aumentar meus conhecimentos rumo ao Full Stack Spring e React. Amo aprender sobre tudo que envolva tecnologia e quero ser uma pessoa que faz a diferença no mundo através da programação!</p>
+  
+<br>
+<br>
+
+<p align="left">
   <a href="https://github.com/anabalves">
     <img alt="Java" src="https://img.shields.io/badge/Java-9929EA?style=flat-square&logo=Java&logoColor=white">
   </a>
@@ -53,19 +55,19 @@
     <a href="https://github.com/anabalves">
     <img alt="Java" src="https://img.shields.io/badge/Eclipse-9929EA?style=flat-square&logo=Eclipse&logoColor=white">
   </a>
-</p>
+</>
 
 <br>
+<br>
+<br>
+<br>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/anabalves">
-  <img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=anabalves&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400&title_color=9929EA&icon_color=6610F2&bg_color=ffffff00&text_color=9929EA&hide_border=true"/>
-  <img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabalves&layout=compact&langs_count=7&cache_seconds=86400&title_color=9929EA&bg_color=ffffff00&text_color=9929EA&hide_border=true"/>
-</div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anabalves&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400&title_color=9929EA&icon_color=6610F2&bg_color=ffffff00&text_color=9929EA&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabalves&layout=compact&cache_seconds=86400&title_color=9929EA&bg_color=ffffff00&text_color=9929EA&hide_border=true" />
+  </a>
+</p>
 
 <br>
 
