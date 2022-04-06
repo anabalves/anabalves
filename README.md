@@ -31,31 +31,46 @@
     <img alt="Java" src="https://img.shields.io/badge/Java-9929EA?style=flat-square&logo=Java&logoColor=white">
   </a>
   <a href="https://github.com/anabalves">
-    <img alt="Java" src="https://img.shields.io/badge/Spring-9929EA?style=flat-square&logo=Spring&logoColor=white">
+    <img alt="Spring" src="https://img.shields.io/badge/Spring-9929EA?style=flat-square&logo=Spring&logoColor=white">
   </a>
-    <a href="https://github.com/anabalves">
-    <img alt="Java" src="https://img.shields.io/badge/React-9929EA?style=flat-square&logo=React&logoColor=white">
+  <a href="https://github.com/anabalves">
+    <img alt="React" src="https://img.shields.io/badge/React-9929EA?style=flat-square&logo=React&logoColor=white">
   </a>
-    <a href="https://github.com/anabalves">
-    <img alt="Java" src="https://img.shields.io/badge/JavaScript-9929EA?style=flat-square&logo=JavaScript&logoColor=white">
+  <a href="https://github.com/anabalves">
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-9929EA?style=flat-square&logo=angular&logoColor=white">
   </a>
-    <a href="https://github.com/anabalves">
-    <img alt="Java" src="https://img.shields.io/badge/Typescript-9929EA?style=flat-square&logo=Typescript&logoColor=white">
+  <a href="https://github.com/anabalves">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-9929EA?style=flat-square&logo=JavaScript&logoColor=white">
   </a>
-    <a href="https://github.com/anabalves">
-    <img alt="Java" src="https://img.shields.io/badge/HTML5-9929EA?style=flat-square&logo=HTML5&logoColor=white">
+  <a href="https://github.com/anabalves">
+    <img alt="Typescript" src="https://img.shields.io/badge/Typescript-9929EA?style=flat-square&logo=Typescript&logoColor=white">
   </a>
-    <a href="https://github.com/anabalves">
-    <img alt="Java" src="https://img.shields.io/badge/CSS3-9929EA?style=flat-square&logo=CSS3&logoColor=white">
+  <a href="https://github.com/anabalves">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-9929EA?style=flat-square&logo=HTML5&logoColor=white">
   </a>
-    <a href="https://github.com/anabalves">
-    <img alt="Java" src="https://img.shields.io/badge/Git-9929EA?style=flat-square&logo=Git&logoColor=white">
+  <a href="https://github.com/anabalves">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-9929EA?style=flat-square&logo=CSS3&logoColor=white">
   </a>
-    <a href="https://github.com/anabalves">
-    <img alt="Java" src="https://img.shields.io/badge/Postman-9929EA?style=flat-square&logo=Postman&logoColor=white">
+  <a href="https://github.com/anabalves">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-9929EA?style=flat-square&logo=Bootstrap&logoColor=white">
   </a>
-    <a href="https://github.com/anabalves">
-    <img alt="Java" src="https://img.shields.io/badge/Eclipse-9929EA?style=flat-square&logo=Eclipse&logoColor=white">
+  <a href="https://github.com/anabalves">
+    <img alt="Git" src="https://img.shields.io/badge/GIT-9929EA?style=flat-square&logo=Git&logoColor=white">
+  </a>
+  <a href="https://github.com/anabalves">
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-9929EA?style=flat-square&logo=Postman&logoColor=white">
+  </a>
+  <a href="https://github.com/anabalves">
+    <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-9929EA?style=flat-square&logo=Eclipse&logoColor=white">
+  </a>
+   <a href="https://github.com/anabalves">
+    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-9929EA?style=flat-square&logo=markdown&logoColor=white">
+  </a>
+  <a href="https://github.com/anabalves">
+    <img alt="Netlify" src="https://img.shields.io/badge/Netlify-9929EA?style=flat-square&logo=netlify&logoColor=white">
+  </a>
+  <a href="https://github.com/anabalves">
+    <img alt="Heroku" src="https://img.shields.io/badge/Heroku-9929EA?style=flat-square&logo=heroku&logoColor=white">
   </a>
 </>
 
