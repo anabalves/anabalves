@@ -81,8 +81,8 @@
 
 <p align="center">
   <a href="https://github.com/anabalves">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anabalves&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400&title_color=9929EA&icon_color=6610F2&bg_color=ffffff00&text_color=9929EA&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabalves&layout=compact&cache_seconds=86400&title_color=9929EA&bg_color=ffffff00&text_color=9929EA&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anabalves&count_private=true&show_icons=true&hide=issues&title_color=9929EA&icon_color=6610F2&bg_color=ffffff00&text_color=9929EA&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabalves&layout=compact&title_color=9929EA&bg_color=ffffff00&text_color=9929EA&hide_border=true" />
   </a>
 </p>
 
