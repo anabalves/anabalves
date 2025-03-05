@@ -10,8 +10,8 @@
   <a href="mailto:barbosaalvesanabeatriz+github@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-9929EA?style=flat-square&logo=Gmail&logoColor=white&link=mailto:barbosaalvesanabeatriz+github@gmail.com" />
   </a>
-  <a href="https://www.linkedin.com/in/anaalvess/">
-    <img src="https://img.shields.io/badge/-Ana%20Alves-9929EA?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-alves-anabalves/" />
+  <a href="https://www.linkedin.com/in/anabalvess/">
+    <img src="https://img.shields.io/badge/-Ana%20Alves-9929EA?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anabalvess/" />
   </a>
 </p>
 
