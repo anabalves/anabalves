@@ -6,7 +6,7 @@ I'm a tech enthusiast with a passion for learning about all things related to te
 
 🎓 Graduate in Systems Analysis and Development
 
-🌐 Passionate about turning challenges into innovative, inclusive solutions
+🌐 Turning challenges into opportunities with innovative and inclusive solutions.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
